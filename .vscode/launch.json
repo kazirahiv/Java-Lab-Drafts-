@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CollectionSample",
+            "request": "launch",
+            "mainClass": "CollectionSample"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CollectionStudent",
+            "request": "launch",
+            "mainClass": "CollectionStudent"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ComboDemo",
+            "request": "launch",
+            "mainClass": "ComboDemo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ProjectBase",
+            "request": "launch",
+            "mainClass": "ProjectBase"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RandomDemo",
+            "request": "launch",
+            "mainClass": "RandomDemo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Start",
+            "request": "launch",
+            "mainClass": "Start"
+        }
+    ]
+}
